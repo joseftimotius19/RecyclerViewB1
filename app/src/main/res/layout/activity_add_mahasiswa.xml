@@ -41,9 +41,9 @@
             android:layout_height="wrap_content"
             android:text="Jenis Kelamin"/>
         <Spinner
-            android:id="@+id/jenisKelaminSpinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/jenisKelaminSpinner"
             android:entries="@array/jenisKelaminArray"/>
         <TextView
             android:layout_width="wrap_content"
